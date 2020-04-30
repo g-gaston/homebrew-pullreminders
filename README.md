@@ -5,7 +5,7 @@ This is a Homebrew tap repository that provides the `pullreminders` formula for 
 ### Homebrew
 To install:
 ```sh
-brew install github/g-gaston/pullreminders
+brew install g-gaston/pullreminders/pullreminders
 ```
 To upgrade:
 ```sh
